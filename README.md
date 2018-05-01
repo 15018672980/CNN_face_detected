@@ -1,0 +1,2 @@
+# CNN_face_detected
+基于alextNet卷积神经网络的人脸定位
