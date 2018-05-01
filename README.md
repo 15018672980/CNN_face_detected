@@ -1,5 +1,7 @@
 # CNN_face_detected
 基于alextNet卷积神经网络的人脸定位
+需要先下载训练好的caffemodel ：链接: https://pan.baidu.com/s/16ToU8_o3Mxha6Qzqb4IWog 密码: cts6
+
 
 ![图](https://raw.githubusercontent.com/15018672980/CNN_face_detected/master/11.jpg)
 ![图](https://raw.githubusercontent.com/15018672980/CNN_face_detected/master/result.jpg)
